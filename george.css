@@ -1,0 +1,80 @@
+h1 {
+    color:rgb(89, 74, 57);
+    text-shadow: 4px 4px #2f429e;
+    text-align: center;
+    font-size: 150px;
+    font-style: oblique;
+}
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(58, 14, 58);
+}
+a {
+    color: azure;
+    padding: 10px;
+    text-decoration: none;
+}
+body {
+    background-image: radial-gradient(rgb(96, 107, 136),rgb(75, 66, 66));
+}
+.navimg {
+    width: 50px;
+}
+h2 {
+
+}
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 20px;
+    height: 5px;
+}
+h2 {
+    font-size: 100px;
+    text-shadow: 5px 5px rgb(39, 39, 39);
+}
+.gall {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    align-items: stretch;
+    padding: 10px;
+    margin-top: 0px;
+    justify-content: center;
+    
+    margin-bottom: 0px;
+    border: 10px solid black;
+}
+.imgs {
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    border-radius: 5px;
+}
+#ok {
+    display: flex;
+    justify-content: center;
+  
+}
+#he {
+    display: block;
+} 
+.yo {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#yo2 {
+    display: flex;
+    height: 100px;
+    width: auto;
+}
+p {
+    text-align: center;
+    font-size: 15px;
+}
